@@ -1,6 +1,3 @@
-
-Here's a refined explanation for your GitHub README:
-
 The process of converting a quantum algorithm into an executable program involves three crucial stages:
 
 Unitary Transformations: Translating the quantum algorithm into unitary transformations.
